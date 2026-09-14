@@ -28,4 +28,6 @@ env/
 # Игнорируем системный файл macOS
 .DS_Store
 
+.env
+
 tmp_data.txt
